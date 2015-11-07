@@ -5,12 +5,13 @@ Maintainer: Zane Helton
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
-Size: 12154
-MD5sum: 9bca2eda18db1d1ff8dfc77721463538
-SHA1: 5786f129e69c5841c251a2b08436e8fb7e70a12e
-SHA256: b5656bdd9022caed75bcabb33b3eab61ff21e523c21b0ba4b75799ce20b3ce92
+Size: 12194
+MD5sum: 387e8a53df7e8c266e8f29ebbdc0ce5b
+SHA1: abe374311f4ee56c4505542fa12cc67068331696
+SHA256: b2d4a73438e129406a0b95256b796222b7597ec37a45885bb341b8633dcb4914
 Section: Tweaks
 Description: Hack your way through lessons in ChineseSkill.
 Author: Zane Helton
-Name: ChineseSkill Hack
 Depiction: http://zaneh.github.io/repo/depictions/?p=com.ZaneHelton.ChineseSkillHack
+Name: ChineseSkill Hack
+
