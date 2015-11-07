@@ -1,0 +1,10 @@
+Package: com.ZaneHelton.ChineseSkillHack
+Name: ChineseSkill Hack
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hack your way through lessons in ChineseSkill.
+Maintainer: Zane Helton
+Author: Zane Helton
+Section: Tweaks
+Version: 1.0.0-1
+Installed-Size: 200

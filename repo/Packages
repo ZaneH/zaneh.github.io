@@ -1,0 +1,16 @@
+Package: com.ZaneHelton.ChineseSkillHack
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Zane Helton
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs//com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
+Size: 12154
+MD5sum: 9bca2eda18db1d1ff8dfc77721463538
+SHA1: 5786f129e69c5841c251a2b08436e8fb7e70a12e
+SHA256: b5656bdd9022caed75bcabb33b3eab61ff21e523c21b0ba4b75799ce20b3ce92
+Section: Tweaks
+Description: Hack your way through lessons in ChineseSkill.
+Author: Zane Helton
+Name: ChineseSkill Hack
+
