@@ -6,11 +6,26 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
 Size: 12274
-MD5sum: e6659dd2816727eb74aa3bd895c70d59
-SHA1: 832074b5c7c71e6f881209e7b19a227437c7316e
-SHA256: 9889340f9482fa1cfdd752e561304ab2ac2ae12dd2b5203739f3b7d7075eaa42
+MD5sum: b0c96f57b942eafcef2044039cd3a515
+SHA1: 4ecdf5957e9f956f184872edc65ddd24b4b7b242
+SHA256: 9d9a8a68f85b1bade70a64ba13465f7112c4aee8c15ebc5dfc5a9bb0f0cf7651
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
 Name: ChineseSkill Hack
+
+Package: com.ZaneHelton.Liu-Soundboard
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Zane Helton
+Depends: mobilesubstrate
+Filename: ./debs//com.zanehelton.liu-soundboard_1.0.0_iphoneos-arm.deb
+Size: 154168
+MD5sum: 9960cdb184e421387a1356597cb5fbda
+SHA1: 5f7ad89baa504471edefc7aab89369a9e5092e7a
+SHA256: 7a56e1cfa3d757b53e43f2ce7245789b540a87d717e4b6efa30c365e0c027e9d
+Section: Apps
+Description: Because why not?
+Author: Zane Helton
+Name: Liu Soundboard
 
