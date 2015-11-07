@@ -2,10 +2,9 @@ Package: com.ZaneHelton.ChineseSkillHack
 Name: ChineseSkill Hack
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Description: Hack your way through lessons in ChineseSkill.
+Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Maintainer: Zane Helton
 Author: Zane Helton
 Section: Tweaks
 Version: 1.0.0-1
 Installed-Size: 200
-Depiction: http://zaneh.github.io/repo/depictions/?p=com.ZaneHelton.ChineseSkillHack

@@ -5,13 +5,12 @@ Maintainer: Zane Helton
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
-Size: 12194
-MD5sum: 387e8a53df7e8c266e8f29ebbdc0ce5b
-SHA1: abe374311f4ee56c4505542fa12cc67068331696
-SHA256: b2d4a73438e129406a0b95256b796222b7597ec37a45885bb341b8633dcb4914
+Size: 12274
+MD5sum: e6659dd2816727eb74aa3bd895c70d59
+SHA1: 832074b5c7c71e6f881209e7b19a227437c7316e
+SHA256: 9889340f9482fa1cfdd752e561304ab2ac2ae12dd2b5203739f3b7d7075eaa42
 Section: Tweaks
-Description: Hack your way through lessons in ChineseSkill.
+Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
-Depiction: http://zaneh.github.io/repo/depictions/?p=com.ZaneHelton.ChineseSkillHack
 Name: ChineseSkill Hack
 
