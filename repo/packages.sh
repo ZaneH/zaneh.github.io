@@ -3,3 +3,4 @@
 
 dpkg-deb -bZgzip projects/chineseskillhack debs
 dpkg-deb -bZgzip projects/liusoundboard debs
+dpkg-deb -bZgzip projects/cctimercountdown debs

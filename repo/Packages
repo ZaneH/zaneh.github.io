@@ -6,9 +6,9 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
 Size: 12274
-MD5sum: b0c96f57b942eafcef2044039cd3a515
-SHA1: 4ecdf5957e9f956f184872edc65ddd24b4b7b242
-SHA256: 9d9a8a68f85b1bade70a64ba13465f7112c4aee8c15ebc5dfc5a9bb0f0cf7651
+MD5sum: 3309b2663392b014f2eb69fb08f085c9
+SHA1: 1e7b4848c6d9eb21d1e205a180a61e7fb285b6cf
+SHA256: 30acb3902cb0682e72dad502c7a62f7b102675ce345ce557e050ea9b2aca2175
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
@@ -20,12 +20,28 @@ Architecture: iphoneos-arm
 Maintainer: Zane Helton
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.liu-soundboard_1.0.0_iphoneos-arm.deb
-Size: 154168
-MD5sum: 9960cdb184e421387a1356597cb5fbda
-SHA1: 5f7ad89baa504471edefc7aab89369a9e5092e7a
-SHA256: 7a56e1cfa3d757b53e43f2ce7245789b540a87d717e4b6efa30c365e0c027e9d
+Size: 154170
+MD5sum: 4d274ad392c60680884f9dad5e8dbbf1
+SHA1: 624d58fbfb4964e24e7623f6b68b33ad7ce716c9
+SHA256: 42d430202f9f3bf2e4b19267c26d12aaf5d52eb09b35e20f16f6b690ef1ad702
 Section: Apps
 Description: Because why not?
 Author: Zane Helton
 Name: Liu Soundboard
+
+Package: com.zanehelton.cctimercountdown
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Zane Helton
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs//com.zanehelton.cctimercountdown_1.0.0_iphoneos-arm.deb
+Size: 15308
+MD5sum: 08d5767be62b01b587a29d6789fc05f9
+SHA1: 078343bfe06c2836210d26d2a0953aa65269ba89
+SHA256: 336bda18d4ed1d67fbaeda3f990b383861f0dbf5c00951e92cc4b43442ff5f52
+Section: Tweaks
+Description: Display countdown timer in the control center.
+Author: Zane Helton
+Name: CCTimerCountdown
 
