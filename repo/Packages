@@ -6,9 +6,9 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
 Size: 12274
-MD5sum: fe411e1599b0b7619997850df24bbdb2
-SHA1: 0f45f2c5b4a1b7521539d148355b7906ab14f32d
-SHA256: 1bb49fe9acee5956e889e29a1fb9b20831e89036fb4ee7d129faafa355b0d1b5
+MD5sum: 8429558fefddf0f2a65a3fe000175a1f
+SHA1: b15b419782559b0d7bd726c033cee853aae7cc1d
+SHA256: 3e093eb65345894a632e2016f0cc67c30e6467b772db1523076bed286d877d96
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
@@ -21,9 +21,9 @@ Maintainer: Zane Helton
 Depends: mobilesubstrate
 Filename: ./debs//com.zanehelton.liu-soundboard_1.0.0_iphoneos-arm.deb
 Size: 154170
-MD5sum: bc86c0e1c4422b65fa160214cf209db3
-SHA1: c3b9907d1c266c1c68f1b1301f054b9eda6ba3af
-SHA256: f7cd21867c6044df2bd97247ff0f21a163b4c91b400aee53e8f524bcd533bbbb
+MD5sum: 6d0de747083c9291c030ad160db2256c
+SHA1: 4c1e531b676e5b4e2ed1747b53b6180569f1575d
+SHA256: b765b24429795403d317cac8c717e7c6ab8109c7c426b3df63e6294fbfe2db5a
 Section: Apps
 Description: Because why not?
 Author: Zane Helton
@@ -37,27 +37,28 @@ Installed-Size: 200
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: ./debs//com.zanehelton.cctimercountdown_1.0.0_iphoneos-arm.deb
 Size: 15308
-MD5sum: 800f62c8aa8b7205659b72bf6f028784
-SHA1: bda2bd50a794d1b5626b4dda5aafc21ac0b4305d
-SHA256: fcb37606e8114598c3b17e980a18bda7587f33046e581026dea81549cf788ae9
+MD5sum: 57df9ee9188239ab4cb38f1887a54e14
+SHA1: 94cbd2100ba0d1fe2ee5e7c2a19a5d5c8dbce7b1
+SHA256: 05eb29eca1333e1c6662b6986ba6c4d13ba610b0b733d26a23e1c8b01a2a63a8
 Section: Tweaks
 Description: Display countdown timer in the control center.
 Author: Zane Helton
 Name: CCTimerCountdown
 
 Package: com.zanehelton.unsplashwallpaper
-Version: 1.0.0-10
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Zane Helton <zane99@me.com>
-Installed-Size: 428
-Depends: mobilesubstrate, firmware (>= 8.0), libactivator
-Filename: ./debs//com.zanehelton.unsplashwallpaper_1.0.0-10_iphoneos-arm.deb
-Size: 43816
-MD5sum: a3df5fa42f00dbdfe15f1ea10debb067
-SHA1: d0f34d0c947664e6724d12ec6cbc04516d26b459
-SHA256: 7739d4f8825b7700e31a3e0d22d1e5d9a57e4fa19a0b2c104c985a2dc79686b5
-Section: Tweaks
-Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with a simple Activator event.
+Installed-Size: 388
+Depends: mobilesubstrate, libactivator
+Filename: ./debs//com.zanehelton.unsplashwallpaper_1.1.0_iphoneos-arm.deb
+Size: 50158
+MD5sum: d04e1725df6b3062bab921ad22ec8a7e
+SHA1: db7dec400dfd7916320fa3f8a1eabc365150eb55
+SHA256: b5a3ccdac58af5f36c9cbc7195fe2318d44b004586506e3e9e62b3a881d4047a
+Section: Addons (Activator)
+Priority: optional
+Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with an Activator action.
 Author: Zane Helton <zane99@me.com>
 Name: UnsplashWallpaper
 

@@ -1,10 +1,11 @@
 Package: com.zanehelton.unsplashwallpaper
 Name: UnsplashWallpaper
-Depends: mobilesubstrate, firmware (>= 8.0), libactivator
+Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with an Activator action.
+Priority: optional
+Section: Addons (Activator)
 Architecture: iphoneos-arm
-Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with a simple Activator event.
+Depends: mobilesubstrate, libactivator
 Maintainer: Zane Helton <zane99@me.com>
 Author: Zane Helton <zane99@me.com>
-Section: Tweaks
-Version: 1.0.0-10
-Installed-Size: 428
+Version: 1.1.0
+Installed-Size: 388
