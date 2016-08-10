@@ -14,21 +14,6 @@ Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear s
 Author: Zane Helton
 Name: ChineseSkill Hack
 
-Package: com.ZaneHelton.Liu-Soundboard
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Zane Helton
-Depends: mobilesubstrate
-Filename: ./debs//com.zanehelton.liu-soundboard_1.0.0_iphoneos-arm.deb
-Size: 154170
-MD5sum: 1dc4430c29088a2c0f7fcc1224e4e02f
-SHA1: 08577ef9e85b0f75b4c8f6095c7e160103ebe598
-SHA256: 48949a9a6196b1c3dee45babc12e849b79d140ffdba0f78a6653c483f3dbde7f
-Section: Apps
-Description: Because why not?
-Author: Zane Helton
-Name: Liu Soundboard
-
 Package: com.zanehelton.cctimercountdown
 Version: 1.0.0
 Architecture: iphoneos-arm
