@@ -5,10 +5,10 @@ Maintainer: Zane Helton
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
-Size: 12256
-MD5sum: ab0705d6a66c69e523bffbe5ab541719
-SHA1: ebec47ccf9cfb2c64b702e73514371cca8c98bee
-SHA256: ef4c60f138092198bafdfd5f8d72528da02d64e637ccb40d27f2e77fe04f3fea
+Size: 12666
+MD5sum: f421100f2e6432a14e63b90495ca3f66
+SHA1: 70c5a3a3041f08b2fd58184296b8af6fc08a1409
+SHA256: f772e21742bf2c3f5b749d2bd4bb07dfc13d094eebe2899078b58276bf75e3ca
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
@@ -17,15 +17,16 @@ Name: ChineseSkill Hack
 Package: com.zanehelton.cctimercountdown
 Version: 0.0.2
 Architecture: iphoneos-arm
+Maintainer: Zane Helton <zane99@me.com>
 Installed-Size: 208
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debs/com.zanehelton.cctimercountdown_0.0.2_iphoneos-arm.deb
-Size: 30890
-MD5sum: e9eab58e09639dd68574ff2756638b02
-SHA1: bf67334fcd814aaf7817d7b5e660b8b935989a2d
-SHA256: e7f46d3d3097e3efd63302bfbedebbf264314468336e889b4f789b4a739ac670
+Size: 31382
+MD5sum: 69622fd6fda44db362eec509c0ca3380
+SHA1: 90ad916c6e41510f4e0f2bd74f0404a9617e2b64
+SHA256: 82ffb7bc92a114c4adcae8cf27b1bc0ce4bfa142dee5d2f03c5df1c064089330
 Section: Tweaks
-Description: Display remaining time on an active timer in the control center.
+Description: This tweak shows how much time is left on an active alarm from within the control center.
 Author: Zane Helton
 Name: CCTimerCountdown
 
@@ -37,9 +38,9 @@ Installed-Size: 300
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.hotasballs_1.2.1_iphoneos-arm.deb
 Size: 37668
-MD5sum: 6b66f996f452bf7f8ccd556a903f387c
-SHA1: 586330b800cd77aaa19d26a8c02d3c2952047def
-SHA256: d4b4aa4d2bf15966763c6ac636558c0c0d5f2e22a0bcdfee60f0cd87f07eb77d
+MD5sum: 1fce948f2fdc7ea93848861b8e2a76ec
+SHA1: 43cda49edb9193387f4a5e32bd2ea78178e89e3a
+SHA256: fab29cb15478de25e647bd10bee52a849a4ad8eeedc84c8a2c41d24c543e4e00
 Section: Tweaks
 Description: When the temperature is over a temperature specified in Settings, the numerical temperature will be replaced by a pair of sweaty balls.
 Author: Zane Helton
@@ -53,9 +54,9 @@ Installed-Size: 388
 Depends: mobilesubstrate, libactivator
 Filename: ./debs/com.zanehelton.unsplashwallpaper_1.1.0_iphoneos-arm.deb
 Size: 51310
-MD5sum: 363776519a02a7594fe6fb0a19c61996
-SHA1: 9e93f3d580a0398f45bb11703c5f21bde5b547f1
-SHA256: feca4a3c76de126a0c51328dbb5cc9db10a9eb9a2172ba3d0fa7642d98250022
+MD5sum: 0e8e000e1bdc13a01aa043d5cc39ab54
+SHA1: 2aee6b1a8376d832148b25cb2d1ca75d03adc1dd
+SHA256: cd7501cc30a97383a05a284f8fda3a9eb254004e89664148fa73e43019fdff27
 Section: Addons (Activator)
 Priority: optional
 Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with an Activator action.
