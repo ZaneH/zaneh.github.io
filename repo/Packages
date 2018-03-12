@@ -5,16 +5,10 @@ Maintainer: Zane Helton
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
-Size: 12668
-<<<<<<< HEAD
-MD5sum: c2a69abb4530d2695ec659aaa9799ce4
-SHA1: 35bb19f0b271c62f23fda68f11586f3b3c7f2a7d
-SHA256: 6f97185684cb5a52a56a464448b59f20ece657972e24cac314b00982b1cc8b50
-=======
-MD5sum: b4d88b383a78228c8c233d0ea0ccee53
-SHA1: 169ad988f19ffe924824056889e877b778adafb9
-SHA256: 181e94e00cc4dd1224e7f9a43e55f57a9d3469df0de03adb715c88ff1d58b5d5
->>>>>>> 2c1fd097ded587687bb5b7b119df5961bd3b77a1
+Size: 12256
+MD5sum: e5593ee90282ecb27c1d6aab2a75da12
+SHA1: b0a0c42cfc5ce3cfda414b6452dd94bac884bbbd
+SHA256: c4f55e08191a9b5f6d758808f56990e2ee072e434512a36208d0f47f1c80b178
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
@@ -23,27 +17,15 @@ Name: ChineseSkill Hack
 Package: com.zanehelton.cctimercountdown
 Version: 0.0.2
 Architecture: iphoneos-arm
-<<<<<<< HEAD
 Installed-Size: 208
-Depends: mobilesubstrate, firmware (>= 10.0)
+Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debs/com.zanehelton.cctimercountdown_0.0.2_iphoneos-arm.deb
-Size: 31100
-MD5sum: 68db0206df7b13b2726ad255a5ffd413
-SHA1: 48e1e1f38b61ac71562cb2fcf5ce5dd88bd5a12b
-SHA256: 800029fe1bde8253062c345798921de093113e74fa45f6536549c2b869b1af18
+Size: 31204
+MD5sum: 0e3e85227834f99c5b91b88747aff093
+SHA1: 1482455a548c197fdb3095c031d92d0e779a57cc
+SHA256: c3affb4eb81f012399857bcc0a90f20ea228b0bdaa3c34758bb346f9bc16b8c8
 Section: Tweaks
-Description: An awesome Cydia Substrate tweak!
-=======
-Installed-Size: 204
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/com.zanehelton.cctimercountdown_0.0.2_iphoneos-arm.deb
-Size: 30592
-MD5sum: 388c9a08b3d1136ac272201d68da405f
-SHA1: 64d8bba804a2bc3f4997690b7d9ca32bffd58b51
-SHA256: 2931f814076582561a1bccfc874134ccfc642a0f3c0bbe06bf2526081adb83cd
-Section: Tweaks
-Description: Display the time remaining on an active timer in the control center.
->>>>>>> 2c1fd097ded587687bb5b7b119df5961bd3b77a1
+Description: Display remaining time on an active timer in the control center.
 Author: Zane Helton
 Name: CCTimerCountdown
 
@@ -54,16 +36,10 @@ Maintainer: Zane Helton
 Installed-Size: 300
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.hotasballs_1.2.1_iphoneos-arm.deb
-Size: 38048
-<<<<<<< HEAD
-MD5sum: b8b9769b166631939633cff8f5f2f432
-SHA1: 67154174771b18bbde904cb8a0730a099940d553
-SHA256: ecdd1761733afe847b909b5c3ee0722d5b669a6f7bce4d7160685ac4fd1385d9
-=======
-MD5sum: 692c5b74aa3ed525d88a3dcbdcff07b9
-SHA1: 1f70097f58d8031e08d30a7a3c7c12e44f4fc723
-SHA256: 08200d3c28ec47018fe3057b9062525f5b55d83682cbb78ce087f8a9944edc58
->>>>>>> 2c1fd097ded587687bb5b7b119df5961bd3b77a1
+Size: 37668
+MD5sum: 79e27fb4d94b36b2b062cab4d9e84743
+SHA1: c6637d9019224391b6ecfb53e56e8c31894dc8c8
+SHA256: 1a0003d4e79f0f65f7edb512361ce934b00eefe8b905419dd13292117ccf9fd8
 Section: Tweaks
 Description: When the temperature is over a temperature specified in Settings, the numerical temperature will be replaced by a pair of sweaty balls.
 Author: Zane Helton
@@ -77,15 +53,9 @@ Installed-Size: 388
 Depends: mobilesubstrate, libactivator
 Filename: ./debs/com.zanehelton.unsplashwallpaper_1.1.0_iphoneos-arm.deb
 Size: 51310
-<<<<<<< HEAD
-MD5sum: 23494469d003ed73227d324c337b0d87
-SHA1: 0f8b3738c029de3777e5fbfbe21ea0024c0175fe
-SHA256: e459e5bdd68e2eebeb005fdb168fae2e2ffd1fd8cdeaeb91c3b9a31f32442297
-=======
-MD5sum: 5eb91a69c9817912d665a8894b34f070
-SHA1: 430698105e36898fc0498a4985a6f2e7f4978730
-SHA256: ef9a07b65f12fcb7b297db3e133551a64d4c83c19cf6e8698a6141296440c304
->>>>>>> 2c1fd097ded587687bb5b7b119df5961bd3b77a1
+MD5sum: 7b92b47ea11998c45cf402c50f73786a
+SHA1: 484c27c02fd0e5473919ce4de08e51b86f681d59
+SHA256: fd3a03563a0a458535a1a61e665bc631e3cf944489a045b0e25d3687fb7243b5
 Section: Addons (Activator)
 Priority: optional
 Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with an Activator action.
