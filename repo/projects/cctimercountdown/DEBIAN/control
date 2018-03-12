@@ -1,10 +1,9 @@
 Package: com.zanehelton.cctimercountdown
 Name: CCTimerCountdown
-Depends: mobilesubstrate, firmware (>= 8.0)
+Depends: mobilesubstrate, firmware (>= 10.0)
 Architecture: iphoneos-arm
-Description: Display countdown timer in the control center.
-Maintainer: Zane Helton
+Description: Display the time remaining on an active timer in the control center.
 Author: Zane Helton
 Section: Tweaks
-Version: 1.0.0
-Installed-Size: 200
+Version: 0.0.2
+Installed-Size: 204
