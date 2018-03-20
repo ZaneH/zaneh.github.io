@@ -6,13 +6,45 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
 Size: 12266
-MD5sum: 658f1a41da023bc72b101c3918060ace
-SHA1: e6b9a13ea3a8bf41b5e8b5bd85283ec7b45d9d00
-SHA256: 575cc1e010d67664e8eb812e8918d32a0ac4ed7d456ea305d1b6041ffbe0e2f0
+MD5sum: 4340eaeb7ccdff7b9f4e314564c90642
+SHA1: 77471ef1a14873d1ed0718938530c82395e6e5f5
+SHA256: 54021905a57c5f2c924272648a94776a4b5c82c780020e0c17ad49aa936eaed7
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
 Name: ChineseSkill Hack
+
+Package: com.zanehelton.cctimechevron-above
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Zane Helton
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zanehelton.cctimechevron-above_0.0.1_iphoneos-arm.deb
+Size: 85468
+MD5sum: d4ae89ba2c1ace11ae8d88708887dfb2
+SHA1: f5fc637e9432b3219cbd7ba7ad84709d2051ddc4
+SHA256: a334db651c7a9cd3c4578d9981b7eb03f7f43b132469763b0260a25dda3b361e
+Section: Tweaks
+Description: Replace the arrow in the control center with a label displaying the time...because why isn't it like that already?
+Author: Zane Helton
+Name: CCTimeChevron (Above)
+
+Package: com.zanehelton.cctimechevron-replace
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Zane Helton <zane99@me.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zanehelton.cctimechevron-replace_0.0.1_iphoneos-arm.deb
+Size: 80394
+MD5sum: 4eedf9f33f9ee5ad4dc49f9eeca057c0
+SHA1: c8668e14f9039b73f4e1b51dba1b454cacae8ac2
+SHA256: bea7f5735ffea61a41094695e2e5e5109eea93cda45fb3589b90a9f054fe9374
+Section: Tweaks
+Description: Replace the arrow in the control center with a label displaying the time...because why isn't it like that already?
+Author: Zane Helton
+Name: CCTimeChevron (Replace)
 
 Package: com.zanehelton.cctimercountdown
 Version: 0.0.2
@@ -21,10 +53,10 @@ Maintainer: Zane Helton <zane99@me.com>
 Installed-Size: 208
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debs/com.zanehelton.cctimercountdown_0.0.2_iphoneos-arm.deb
-Size: 30944
-MD5sum: acbb128ff59e1ace129ac061c2c27e71
-SHA1: a93ef846cbb40f0d5b0f7b56cf17702453fdef4e
-SHA256: 358a22964c47ba557b6c679140cbd4b027b8ac5d2c226131a0df8addebc2724d
+Size: 31570
+MD5sum: 447b5ecfe784a53baf278996396740d4
+SHA1: 723307cd9094a905a5690f74fb48ed640999d5a0
+SHA256: 4842f450bf9e128eb5cc48d9ba4451e1742c566f1dc790d5adbe05ca2d56f86e
 Section: Tweaks
 Description: This tweak shows how much time is left on an active alarm from within the control center. Doesn't support iOS 10.
 Author: Zane Helton
@@ -38,9 +70,9 @@ Installed-Size: 300
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.hotasballs_1.2.1_iphoneos-arm.deb
 Size: 37668
-MD5sum: 9a74d56aba43a7e992aa50500a1e52f1
-SHA1: 24e4f3bfedc894bd08ab701d759c7ca5d4a65d52
-SHA256: 38d7ebbea5bf3a5e63b808430f9f6dada65c2299e230333f47fe2b63a3023b17
+MD5sum: ccd695ee841e39603b6ad88722452e17
+SHA1: 5dd01434f1155a49aac7f705c3507d27f147d432
+SHA256: 090c7bc5e12d1fb5ec82d49a2f27ae945e5dfdb13c2bb6fe9e23e874320dc6ce
 Section: Tweaks
 Description: When the temperature is over a temperature specified in Settings, the numerical temperature will be replaced by a pair of sweaty balls.
 Author: Zane Helton
@@ -54,9 +86,9 @@ Installed-Size: 388
 Depends: mobilesubstrate, libactivator
 Filename: ./debs/com.zanehelton.unsplashwallpaper_1.1.0_iphoneos-arm.deb
 Size: 51310
-MD5sum: 9ea19908a6493902f3a1f2541a8a805e
-SHA1: b0dbefbe9fe26fcac61ee835fa303591b69b5af3
-SHA256: 84262ab56b1fe8ec396715a6eedda5a05630dc16db1d2512c6f4d805b2007be8
+MD5sum: 6de6015f35b9622a4e52dd84e4526f05
+SHA1: 1574aabe8561650dcb1bf8e5f2e6a98fc40ca93c
+SHA256: 5906905c7533cd34ce427930adf25525c7dc133025e7cbc2696eae84cd2da59e
 Section: Addons (Activator)
 Priority: optional
 Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with an Activator action.
