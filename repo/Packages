@@ -6,9 +6,9 @@ Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.chineseskillhack_1.0.0-1_iphoneos-arm.deb
 Size: 12266
-MD5sum: 4340eaeb7ccdff7b9f4e314564c90642
-SHA1: 77471ef1a14873d1ed0718938530c82395e6e5f5
-SHA256: 54021905a57c5f2c924272648a94776a4b5c82c780020e0c17ad49aa936eaed7
+MD5sum: cb4d141af96f7c3e1e6b198746ea174c
+SHA1: 676b028cd1f4d6f79baaf3175934edb72087d754
+SHA256: cf5f9ccd96c99cb73b7273ec217be50cf6e5574ac5c39e9a80156066654f4d32
 Section: Tweaks
 Description: Stuck on a lesson for ChineseSkill? Want to learn in a non-linear style? ChineseSkill Hack inserts two buttons on the lesson view page as well as the test page giving you the ability to have infinite lives, or just skip the lesson if you really need to.
 Author: Zane Helton
@@ -21,10 +21,10 @@ Maintainer: Zane Helton
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.cctimechevron-above_0.0.1_iphoneos-arm.deb
-Size: 85468
-MD5sum: d4ae89ba2c1ace11ae8d88708887dfb2
-SHA1: f5fc637e9432b3219cbd7ba7ad84709d2051ddc4
-SHA256: a334db651c7a9cd3c4578d9981b7eb03f7f43b132469763b0260a25dda3b361e
+Size: 84986
+MD5sum: c769b50437c34943c662a17ff7bca4cf
+SHA1: 571c6d48de1f3a75776968e21524720ed0fb5481
+SHA256: aaedfeac0b3099c00dfab37e9e69ba4050c4344e5b5f042af4039170fe3115d1
 Section: Tweaks
 Description: Replace the arrow in the control center with a label displaying the time...because why isn't it like that already?
 Author: Zane Helton
@@ -37,10 +37,10 @@ Maintainer: Zane Helton <zane99@me.com>
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.cctimechevron-replace_0.0.1_iphoneos-arm.deb
-Size: 80394
-MD5sum: 4eedf9f33f9ee5ad4dc49f9eeca057c0
-SHA1: c8668e14f9039b73f4e1b51dba1b454cacae8ac2
-SHA256: bea7f5735ffea61a41094695e2e5e5109eea93cda45fb3589b90a9f054fe9374
+Size: 79950
+MD5sum: 1d60fdee1f9a399d1af45eb0a53f853a
+SHA1: 58f6e31ce6d080d46cddb5bc7adc27858872f954
+SHA256: 2a11cdcbfa0e9ba8f938cd528702e78995da6e8651b9a297bb44e57425737ce7
 Section: Tweaks
 Description: Replace the arrow in the control center with a label displaying the time...because why isn't it like that already?
 Author: Zane Helton
@@ -53,10 +53,10 @@ Maintainer: Zane Helton <zane99@me.com>
 Installed-Size: 208
 Depends: mobilesubstrate, firmware (>= 9.0)
 Filename: ./debs/com.zanehelton.cctimercountdown_0.0.2_iphoneos-arm.deb
-Size: 31570
-MD5sum: 447b5ecfe784a53baf278996396740d4
-SHA1: 723307cd9094a905a5690f74fb48ed640999d5a0
-SHA256: 4842f450bf9e128eb5cc48d9ba4451e1742c566f1dc790d5adbe05ca2d56f86e
+Size: 30950
+MD5sum: 2640648baf52dc5a998e0edfbcfd87f4
+SHA1: 3424973feb9befbfd49664015f352e7f6e3d720a
+SHA256: dba19c419124fab6d0ae788071fa64d839e1481e735f3e2af9e66d22943605ea
 Section: Tweaks
 Description: This tweak shows how much time is left on an active alarm from within the control center. Doesn't support iOS 10.
 Author: Zane Helton
@@ -70,13 +70,29 @@ Installed-Size: 300
 Depends: mobilesubstrate
 Filename: ./debs/com.zanehelton.hotasballs_1.2.1_iphoneos-arm.deb
 Size: 37668
-MD5sum: ccd695ee841e39603b6ad88722452e17
-SHA1: 5dd01434f1155a49aac7f705c3507d27f147d432
-SHA256: 090c7bc5e12d1fb5ec82d49a2f27ae945e5dfdb13c2bb6fe9e23e874320dc6ce
+MD5sum: 71020c4e84db8d891a9c88ce7f9ffb8a
+SHA1: 6d7df1cdd88960173ed9ba118d4a5d7b800c3b18
+SHA256: ed84471c481eb66814c7b1175e958cc307e62df8324dd7458b3f038f55508c29
 Section: Tweaks
 Description: When the temperature is over a temperature specified in Settings, the numerical temperature will be replaced by a pair of sweaty balls.
 Author: Zane Helton
 Name: HotAsBalls
+
+Package: com.zanehelton.turnofflivephoto
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Zane Helton
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.zanehelton.turnofflivephoto_1.0.0_iphoneos-arm.deb
+Size: 4070
+MD5sum: 271f460d20ff4ac2828b2219a67160dc
+SHA1: 67440c427cb6a3b72bfb73faa763d734773973b7
+SHA256: ec4b494d25094e9d843d99e38056fd7b23c993da523ba2e9efce52b0bea783c8
+Section: Tweaks
+Description: Turns off Apple's Live Photo by default.
+Author: Zane Helton
+Name: TurnOffLivePhoto
 
 Package: com.zanehelton.unsplashwallpaper
 Version: 1.1.0
@@ -86,9 +102,9 @@ Installed-Size: 388
 Depends: mobilesubstrate, libactivator
 Filename: ./debs/com.zanehelton.unsplashwallpaper_1.1.0_iphoneos-arm.deb
 Size: 51310
-MD5sum: 6de6015f35b9622a4e52dd84e4526f05
-SHA1: 1574aabe8561650dcb1bf8e5f2e6a98fc40ca93c
-SHA256: 5906905c7533cd34ce427930adf25525c7dc133025e7cbc2696eae84cd2da59e
+MD5sum: d9f50a7c71dfa5bd5a90883584f3bef1
+SHA1: 0e04c9a98b863f283291c43d20ae8cc096ad1fdf
+SHA256: fcb969fce28a45de791f21e0cd8deed8f606643cfac01f903784e68ee3dd8923
 Section: Addons (Activator)
 Priority: optional
 Description: Set your wallpaper to a random photo from Unsplash.com to fit your iOS device with an Activator action.
