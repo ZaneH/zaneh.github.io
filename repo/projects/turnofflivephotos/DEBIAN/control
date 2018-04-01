@@ -1,0 +1,10 @@
+Package: com.zanehelton.turnofflivephoto
+Name: TurnOffLivePhoto
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Turns off Apple's Live Photo by default.
+Maintainer: Zane Helton
+Author: Zane Helton
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 120
